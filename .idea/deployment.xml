@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="bchdb">
+    <serverData>
+      <paths name="bchdb">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/backup/metacaller/simulators/mason_simulator/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
